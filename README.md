@@ -70,6 +70,8 @@ FROM PC pc, sort_price_desc_by_ram s
 WHERE pc.pc_code = s.pc_code
 AND s.rw = 2;
 
+https://hyperskill.org/projects/382
+
 
 
 
